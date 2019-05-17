@@ -164,6 +164,7 @@ You will see those list of the UIColor have it.
 13. red
 14. purple
 15. orange
+16. magenta
 
 You will see this 'range' that where you created your own new name value in this constant statements to put 
 in this 'addAttribute()'.
